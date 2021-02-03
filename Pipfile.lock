@@ -1,0 +1,37 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f9b897b69c4c8e6ed7d5349f24d2f83b3b9a7ed3968cc05be92f602c2b02e2bb"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "click": {
+            "hashes": [
+                "sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a",
+                "sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"
+            ],
+            "index": "pypi",
+            "version": "==7.1.2"
+        },
+        "whatthepatch": {
+            "hashes": [
+                "sha256:042ad7681a56a2ff619a6bad5f58095eb065b23ff9c67cf6f15cea1c56c9766e",
+                "sha256:16f0783ae2382c928070bddf7b7fceba363c539bcba9a4e7934600da5829d9ae"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
+        }
+    },
+    "develop": {}
+}
